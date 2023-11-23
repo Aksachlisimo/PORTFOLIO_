@@ -3,7 +3,7 @@ Welcome to my portfolio repository! This project showcases my skills using React
 
 <p align="center">
   <br>
-  <img src="https://reactjsexample.com/content/images/2023/06/Code-2023-05-36-15.jpg" alt="wb" width="400">
+  <img src="read.jpeg" alt="wb" width="400">
   <br>
 </p>
 <p align="center" >
@@ -13,7 +13,7 @@ Welcome to my portfolio repository! This project showcases my skills using React
   <a href="#packages">Packages</a>   
 </p>
 <p align="center" >
-<a href="https://whosbl33h.netlify.app/">Try it out here</a> 
+<a href="https://mohamedmouhimine.com/">Try it out here</a> 
 </p>
 
 ## Features
@@ -26,13 +26,6 @@ $ npm i
 $ npm run dev
 ```
 
-## Files
-
-- src: the file that implements de solution.
-- assets: resources that are used in an application.
-- components: reusable pieces of code that define the appearance and behavior of a part of the UI.
-- pages: the different areas of the portfolio.
-- constants: values that cannot be altered by the program during normal execution.
 
 
 ## How To Use
