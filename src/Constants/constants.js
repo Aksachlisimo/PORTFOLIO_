@@ -103,7 +103,7 @@ const projects = [
 	{
 		name: "Random-Quote",
 		description:
-			"Conception d'une application web pour générer des citations de motivation avec HTML, CSS et JavaScript,",
+			"Designing a web application to generate motivational quotes using HTML, CSS, and JavaScript,",
 		image: Randomquote,
 		source_code_link: "https://github.com/Aksachlisimo/random-quote-app",
 		demo_link: "https://aksachlisimo.github.io/random-quote-app/",
@@ -111,7 +111,7 @@ const projects = [
 	{
 		name: "Focus-timer",
 		description:
-			"Développement d'une application web visant à optimiser la gestion du temps et à améliorer la productivité grâce à une interface utilisateur performante.",
+			"Development of a web application aimed at optimizing time management and enhancing productivity through a high-performance user interface.",
 		image: focusflow,
 		source_code_link: "https://github.com/Aksachlisimo/FocusFlow",
 		demo_link:
