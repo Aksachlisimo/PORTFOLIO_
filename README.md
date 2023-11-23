@@ -8,7 +8,6 @@ Welcome to my portfolio repository! This project showcases my skills using React
 </p>
 <p align="center" >
   <a href="#features">Features</a> •
-  <a href="#Files">Files</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#packages">Packages</a>   
 </p>
