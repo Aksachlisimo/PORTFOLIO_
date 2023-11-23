@@ -5,7 +5,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 export default defineConfig({
-  base:'/Portfolio',
+  base:'/',
   plugins: [react()],
   server: {
     host: true,
