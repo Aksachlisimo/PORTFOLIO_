@@ -25,8 +25,8 @@ import close from './close.svg';
 import menu from './menu.svg';
 
 // Projects
-import focusflow from './projects/project1.png';
-import Randomquote from './projects/project2.png';
+import focusflow from './projects/project2.jpg';
+import Randomquote from './projects/project1.jpg';
 
 // Avatar
 import avatar from './avatar/avatar.jpg';
