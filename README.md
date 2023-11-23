@@ -3,7 +3,7 @@ Welcome to my portfolio repository! This project showcases my skills using React
 
 <p align="center">
   <br>
-  <img src="read.jpeg" alt="wb" width="400">
+  <img src="read.jpg" alt="wb" width="400">
   <br>
 </p>
 <p align="center" >
