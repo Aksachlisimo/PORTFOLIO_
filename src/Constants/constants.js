@@ -108,15 +108,6 @@ const projects = [
 			"https://smart-v1.onrender.com/",
 	},
 
-
-	{
-		name: "Random-Quote",
-		description:
-			"Designing a web application to generate motivational quotes using HTML, CSS, and JavaScript,",
-		image: Randomquote,
-		source_code_link: "https://github.com/Aksachlisimo/random-quote-app",
-		demo_link: "https://aksachlisimo.github.io/random-quote-app/",
-	},
 	{
 		name: "Focus-Timer",
 		description:
@@ -126,7 +117,15 @@ const projects = [
 		demo_link:
 			"https://focustimer23.netlify.app/",
 	},
-	,
+	{
+		name: "Random-Quote",
+		description:
+			"Designing a web application to generate motivational quotes using HTML, CSS, and JavaScript,",
+		image: Randomquote,
+		source_code_link: "https://github.com/Aksachlisimo/random-quote-app",
+		demo_link: "https://aksachlisimo.github.io/random-quote-app/",
+	},
+	
 ];
 
 const memoji = {

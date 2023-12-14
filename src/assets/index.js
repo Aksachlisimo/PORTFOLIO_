@@ -27,6 +27,7 @@ import menu from './menu.svg';
 // Projects
 import focusflow from './projects/project2.jpg';
 import Randomquote from './projects/project1.jpg';
+import smartbrain from './projects/project3.jpeg';
 
 // Avatar
 import avatar from './avatar/avatar.jpg';
@@ -48,4 +49,5 @@ export {
   Randomquote,
   avatar,
   bl33hIcon,
+  smartbrain,
 };
