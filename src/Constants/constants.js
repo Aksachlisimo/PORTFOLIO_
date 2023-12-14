@@ -98,6 +98,15 @@ export const navLinks = [
 
 const projects = [
 
+{
+		name: "Smart-Brain",
+		description:
+			"Unleash the power of smart image analysis with our cutting-edge app. Whether you're a photography enthusiast or just curious about the faces in your photos, through a high-performance user interface.",
+		image: focusflow,
+		source_code_link: "https://github.com/Aksachlisimo/smart-brain-v1.git",
+		demo_link:
+			"https://smart-v1.onrender.com/",
+	},
 
 
 	{
@@ -109,7 +118,7 @@ const projects = [
 		demo_link: "https://aksachlisimo.github.io/random-quote-app/",
 	},
 	{
-		name: "Focus-timer",
+		name: "Focus-Timer",
 		description:
 			"Development of a web application aimed at optimizing time management and enhancing productivity through a high-performance user interface.",
 		image: focusflow,
@@ -117,6 +126,7 @@ const projects = [
 		demo_link:
 			"https://focustimer23.netlify.app/",
 	},
+	,
 ];
 
 const memoji = {
