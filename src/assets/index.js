@@ -30,7 +30,7 @@ import Randomquote from './projects/project1.jpg';
 import smartbrain from './projects/project3.jpeg';
 
 // Avatar
-import avatar from './avatar/avatar.jpg';
+import avatar from './avatar/avatar.jpeg';
 
 export {
   menu,
