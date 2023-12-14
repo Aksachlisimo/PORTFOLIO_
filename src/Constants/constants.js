@@ -36,6 +36,7 @@ import {
 	bootstrapIcon,
 	psqlIcon,
 	reactIcon,
+	smartbrain,
 } from "../assets";
 
 library.add(faX, faBars, faWindowRestore, faBagShopping, faDiceD6);
@@ -102,7 +103,7 @@ const projects = [
 		name: "Smart-Brain",
 		description:
 			"Unleash the power of smart image analysis with our cutting-edge app. Whether you're a photography enthusiast or just curious about the faces in your photos, through a high-performance user interface.",
-		image: focusflow,
+		image: smartbrain,
 		source_code_link: "https://github.com/Aksachlisimo/smart-brain-v1.git",
 		demo_link:
 			"https://smart-v1.onrender.com/",
@@ -125,7 +126,7 @@ const projects = [
 		source_code_link: "https://github.com/Aksachlisimo/random-quote-app",
 		demo_link: "https://aksachlisimo.github.io/random-quote-app/",
 	},
-	
+
 ];
 
 const memoji = {
